@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.dfsadfusic-encoding.org/ns/mei" meiversion="4.0.0">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title>Sonate</title>
+                <title type="subordinate" n="1" label="Opus number">Op. 53</title>
+                <respStmt>
+                    <persName role="composer">Ludwig van Beethoven</persName>
+                    <persName role="encoder" enddate="2021-04-08T13:05:30">Werner Goebl</persName>
+                </respStmt>
+            </titleStmt>
+            <pubStmt>
+                <respStmt>
+                    <persName role="encoder" auth.uri="http://d-nb.info/gnd" auth="GND" codedval="1138881465">Werner Goebl</persName>
+                </respStmt>
+            </pubStmt>
+        </fileDesc>
+        <workList>
+            <work>
+                <identifier>Opus 53</identifier>
+                <title>Sonate</title>
+                <composer>
+                    <persName auth.uri="http://d-nb.info/gnd" auth="GND" codedval="118508288">Ludwig van
+                        Beethoven</persName>
+                </composer>
+                <relationList>
+                    <relation rel="hasPart" target="Beethoven_Op53_1-HenleUrtext.mei" />
+                    <relation rel="hasPart" target="Beethoven_Op53_2-HenleUrtext.mei" />
+                    <relation rel="hasPart" target="Beethoven_Op53_3-HenleUrtext.mei" />
+                </relationList>
+            </work>
+        </workList>
+    </meiHead>
+    <music />
+  </mei>
