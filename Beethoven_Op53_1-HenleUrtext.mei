@@ -2801,8 +2801,7 @@
                                     <note xml:id="note-0000000354690621" dur="8" oct="4" pname="a" stem.dir="up" />
                                     <note xml:id="note-0000001064532937" dur="8" oct="5" pname="g" stem.dir="up" accid.ges="s" />
                                     <note xml:id="note-0000001107737571" dur="8" oct="5" pname="f" stem.dir="up">
-                                       <accid xml:id="accid-0000001735777060" accid="n" />
-                                       <accid xml:id="accid-0000001207660176" accid="s" />
+                                       <accid xml:id="accid-0000001735777060" accid="ns" />
                                     </note>
                                  </tuplet>
                               </beam>
@@ -2959,8 +2958,7 @@
                               <beam xml:id="beam-0000000819772238">
                                  <tuplet xml:id="tuplet-0000001234248267" num="3" numbase="2" num.visible="false" bracket.visible="false">
                                     <note xml:id="note-0000000341194953" dur="8" oct="5" pname="c" stem.dir="up">
-                                       <accid xml:id="accid-0000001190226663" accid="n" />
-                                       <accid xml:id="accid-0000000367951398" accid="s" />
+                                       <accid xml:id="accid-0000001190226663" accid="ns" />
                                     </note>
                                     <note xml:id="note-0000002106754422" dur="8" oct="5" pname="g" stem.dir="up">
                                        <accid xml:id="accid-0000000843713863" accid="s" />
@@ -2975,8 +2973,7 @@
                                  <accid xml:id="accid-0000000271505402" accid="n" />
                               </note>
                               <note xml:id="note-0000001428328036" dur="4" oct="5" pname="c" stem.dir="down">
-                                 <accid xml:id="accid-0000001099951342" accid="n" />
-                                 <accid xml:id="accid-0000000882241916" accid="s" />
+                                 <accid xml:id="accid-0000001099951342" accid="ns" />
                               </note>
                            </layer>
                         </staff>
@@ -3044,7 +3041,7 @@
                               <beam xml:id="beam-0000001360033515">
                                  <tuplet xml:id="tuplet-0000000323124867" num="3" numbase="2" num.visible="false" bracket.visible="false">
                                     <note xml:id="note-0000000687627693" dur="8" oct="5" pname="f" stem.dir="up">
-                                       <accid xml:id="accid-0000001066561704" accid="s" />
+                                       <accid xml:id="accid-0000001066561704" accid="ns" />
                                     </note>
                                     <note xml:id="note-0000000404525198" dur="8" oct="5" pname="e" stem.dir="up" />
                                     <note xml:id="note-0000000861755107" dur="8" oct="5" pname="d" stem.dir="up" accid.ges="s" />
@@ -3146,8 +3143,7 @@
                                     <note xml:id="note-0000000053252537" dur="8" oct="3" pname="a" stem.dir="up" />
                                     <note xml:id="note-0000000383963791" dur="8" oct="4" pname="g" stem.dir="up" accid.ges="s" />
                                     <note xml:id="note-0000000562081502" dur="8" oct="4" pname="f" stem.dir="up">
-                                       <accid xml:id="accid-0000001728212414" accid="s" />
-                                       <accid xml:id="accid-0000000116970345" accid="n" />
+                                       <accid xml:id="accid-0000000116970345" accid="ns" />
                                     </note>
                                  </tuplet>
                               </beam>
