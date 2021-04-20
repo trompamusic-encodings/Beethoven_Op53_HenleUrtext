@@ -9791,7 +9791,7 @@
                                  <note xml:id="note-0000001053058879" dur="16" oct="1" pname="a" stem.dir="down" />
                               </beam>
                               <beam xml:id="beam-0000000482453660">
-                                 <note xml:id="note-0000001673756470" dur="16" staff="3" oct="1" pname="g" stem.dir="down" />
+                                 <note xml:id="note-0000001673756470" dur="16" oct="1" pname="g" stem.dir="down" />
                                  <note xml:id="note-0000000045640192" dur="16" oct="2" pname="c" stem.dir="down" />
                                  <note xml:id="note-0000000885473689" dur="16" oct="1" pname="b" stem.dir="down" />
                                  <note xml:id="note-0000000673166151" dur="16" oct="1" pname="a" stem.dir="down" />
