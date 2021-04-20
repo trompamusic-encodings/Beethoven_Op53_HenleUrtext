@@ -143,7 +143,7 @@
                            </layer>
                         </staff>
                         <dynam xml:id="dynam-0000001681118963" place="above" staff="2" tstamp="1.000000" vgrp="45">pp</dynam>
-                        <tempo xml:id="tempo-0000000288197353" place="above" staff="1" tstamp="1.000000" midi.bpm="152">Allegro con brio</tempo>
+                        <tempo xml:id="tempo-0000000288197353" place="above" staff="1" tstamp="1.000000" midi.bpm="176">Allegro con brio</tempo>
                      </measure>
                      <measure xml:id="measure-0000000533415001" n="2">
                         <staff xml:id="staff-0000001321712225" n="1">
