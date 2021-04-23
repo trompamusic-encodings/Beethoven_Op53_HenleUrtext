@@ -5028,24 +5028,6 @@
                                  </note>
                               </beam>
                            </layer>
-                           <layer xml:id="layer-0000000296318039" n="6">
-                              <note xml:id="note-0000002026831927" dur="16" oct="5" pname="d" cue="true" stem.visible="false" visible="false">
-                                 <accid xml:id="accid-0000001154697156" accid="s" />
-                              </note>
-                              <note xml:id="note-0000000614704928" dur="16" oct="5" pname="e" cue="true" stem.visible="false" visible="false" />
-                              <note xml:id="note-0000000344870904" dur="16" oct="5" pname="d" cue="true" stem.visible="false" visible="false" accid.ges="s" />
-                              <note xml:id="note-0000000101372392" dur="16" oct="5" pname="e" cue="true" stem.visible="false" visible="false" />
-                              <note xml:id="note-0000002063638440" dur="16" oct="5" pname="d" cue="true" stem.visible="false" visible="false" accid.ges="s" />
-                              <note xml:id="note-0000001990956555" dur="16" oct="5" pname="e" cue="true" stem.visible="false" visible="false" />
-                              <note xml:id="note-0000000471459181" dur="16" oct="5" pname="d" cue="true" stem.visible="false" visible="false" accid.ges="s" />
-                              <note xml:id="note-0000000002974246" dur="16" oct="5" pname="e" cue="true" stem.visible="false" visible="false" />
-                              <note xml:id="note-0000002062150674" dur="16" oct="5" pname="d" cue="true" stem.visible="false" visible="false" accid.ges="s" />
-                              <note xml:id="note-0000001690936541" dur="16" oct="5" pname="e" cue="true" stem.visible="false" visible="false" />
-                              <note xml:id="note-0000000892354800" dur="16" oct="5" pname="d" cue="true" stem.visible="false" visible="false" accid.ges="s" />
-                              <note xml:id="note-0000000049239620" dur="16" oct="5" pname="e" cue="true" stem.visible="false" visible="false" />
-                              <note xml:id="note-0000000262687228" dur="16" oct="5" pname="d" cue="true" stem.visible="false" visible="false" accid.ges="s" />
-                              <note xml:id="note-0000001827058569" dur="16" oct="5" pname="e" cue="true" stem.visible="false" visible="false" />
-                           </layer>
                         </staff>
                      </measure>
                      <measure xml:id="measure-0000001050282567" n="74">
@@ -15258,7 +15240,7 @@
                         </staff>
                         <dynam xml:id="dynam-0000000814483560" place="between" staff="1 2" tstamp="1.000000" vgrp="45" />
                         <tie xml:id="tie-0000000906222661" startid="#note-0000000031713568" endid="#note-0000001469386027" />
-                        <trill xml:id="trill-0000001963665528" staff="2" startid="#note-0000000031713568" tstamp2="1m+4.500" extender="true" n="1" />
+                        <trill xml:id="trill-0000001963665528" staff="2" startid="#note-0000000031713568" tstamp2="1m+4.700" extender="true" n="1" />
                         <dynam xml:id="dynam-0000000335994462" place="between" staff="1 2" tstamp="1.000000">cresc.</dynam>
                      </measure>
                      <pb xml:id="pb-0000002068905107" />
