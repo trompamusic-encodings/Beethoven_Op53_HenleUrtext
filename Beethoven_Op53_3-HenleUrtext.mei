@@ -15295,11 +15295,10 @@
                            </beam>
                         </layer>
                      </staff>
-                     <tempo xml:id="tempo-0000002129372019" tstamp="1.000000" midi.bpm="352" />
                      <dynam xml:id="dynam-0000001100053557" place="between" staff="1 2" tstamp="0.000000">f</dynam>
                      <dynam xml:id="dynam-0000001475554600" place="between" staff="1 2" tstamp="1.500000">p dolce</dynam>
                      <slur xml:id="slur-0000001118848999" startid="#note-0000000329184804" endid="#note-0000000066231739" />
-                     <tempo xml:id="tempo-0000000142789322" place="above" startid="#note-0000000884921441">Prestissimo</tempo>
+                     <tempo xml:id="tempo-0000000142789322" place="above" startid="#note-0000000884921441" midi.bpm="352">Prestissimo</tempo>
                      <pedal xml:id="pedal-0000000030575907" startid="#note-0000001983115455" dir="down" vgrp="100" />
                   </measure>
                   <measure xml:id="measure-0000000579996685" n="404">
