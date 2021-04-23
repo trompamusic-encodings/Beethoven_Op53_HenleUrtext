@@ -19016,7 +19016,7 @@
                            </chord>
                         </layer>
                      </staff>
-                     <pedal xml:id="pedal-0000000125198994" staff="2" tstamp="2.500000" dir="up" vgrp="100" />
+                     <pedal xml:id="pedal-0000000125198994" staff="2" tstamp="2.7500000" dir="up" vgrp="100" />
                      <tie xml:id="tie-0000000794363213" startid="#note-0000000539510928" endid="#note-0000000060968397" />
                   </measure>
                   <measure xml:id="measure-0000001939917894" n="521">
@@ -19092,7 +19092,7 @@
                         </layer>
                      </staff>
                      <tie xml:id="tie-0000002125648915" startid="#note-0000000159218316" endid="#note-0000000009505458" />
-                     <pedal xml:id="pedal-0000000012678967" staff="2" tstamp="2.500000" dir="up" vgrp="100" />
+                     <pedal xml:id="pedal-0000000012678967" staff="2" tstamp="2.7500000" dir="up" vgrp="100" />
                   </measure>
                   <measure xml:id="measure-0000000656599947" n="523">
                      <staff xml:id="staff-0000001001483578" n="1">
@@ -19415,6 +19415,7 @@
                         </layer>
                      </staff>
                      <dynam xml:id="dynam-0000002074393139" place="between" staff="1 2" tstamp="1.000000">ff</dynam>
+                     <pedal xml:id="pedal-0000000360160979" startid="#note-0000000455691122" dir="down" vgrp="100" />
                   </measure>
                   <measure xml:id="measure-0000001414886697" n="530">
                      <staff xml:id="staff-0000001510380594" n="1">
