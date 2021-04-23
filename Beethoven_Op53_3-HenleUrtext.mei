@@ -17798,7 +17798,7 @@
                            <beam xml:id="beam-0000000430882085">
                               <note xml:id="note-0000001255078913" dur="8" oct="2" pname="d" accid.ges="n" />
                               <note xml:id="note-0000000128941444" dur="8" oct="2" pname="c" accid.ges="n" />
-                              <note xml:id="note-0000001167763422" dur="8" oct="1" pname="a" accid.ges="n" />
+                              <note xml:id="note-0000001167763422" dur="8" oct="1" pname="b" accid.ges="n" />
                               <note xml:id="note-0000001307419938" dur="8" oct="1" pname="a" accid.ges="n" />
                            </beam>
                         </layer>
@@ -17980,7 +17980,7 @@
                   <measure xml:id="measure-0000001628479062" n="485">
                      <staff xml:id="staff-0000000651058191" n="1">
                         <layer xml:id="layer-0000000332825699" n="1">
-                           <rest xml:id="rest-0000000556435603" dur="2" ploc="b" oloc="5" />
+                           <rest xml:id="rest-0000000556435603" dur="2" ploc="d" oloc="6"/>
                            <note xml:id="note-0000000124053062" dur="2" oct="6" pname="g" accid.ges="n" />
                         </layer>
                         <layer xml:id="layer-0000002075486647" n="2">
@@ -18721,7 +18721,7 @@
                      </staff>
                      <dynam xml:id="dynam-0000000483410237" place="between" staff="1 2" tstamp="1.500000">cresc.</dynam>
                      <tie xml:id="tie-0000000100586426" startid="#note-0000000205826803" endid="#note-0000000681822250" />
-                     <trill xml:id="trill-0000000326702557" staff="1" startid="#note-0000000205826803" tstamp2="4m+3.0000" extender="true" accidupper="n" place="below" />
+                     <trill xml:id="trill-0000000326702557" staff="1" startid="#note-0000000205826803" tstamp2="3m+3.0000" extender="true" accidupper="n" place="below" />
                   </measure>
                   <measure xml:id="measure-0000001951779008" n="512">
                      <staff xml:id="staff-0000001123303967" n="1">
