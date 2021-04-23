@@ -1366,9 +1366,7 @@
                      <dir xml:id="dir-0000000039419433" place="between" staff="1 2" tstamp="4.500000">decresc.</dir>
                      <slur xml:id="slur-0000001836201040" startid="#note-0000000010498754" endid="#note-0000000047595639" />
                      <slur xml:id="slur-0000001463367661" startid="#note-0000000303066357" endid="#note-0000000193459745" />
-                     <dynam xml:id="dynam-0000000385568482" staff="2" tstamp="1.000000">
-                        <rend xml:id="rend-0000000518347269" halign="right" fontsize="large" fontweight="bold">sf </rend>
-                     </dynam>
+                     <dynam xml:id="dynam-0000000385568482" staff="2" tstamp="1.000000">sf</dynam>
                      <tie xml:id="tie-0000000161315685" startid="#note-0000000148691299" endid="#note-0000000019343438" curvedir="below" />
                      <slur xml:id="slur-0000001349854251" startid="#note-0000000025115548" endid="#note-0000000023328760" />
                   </measure>
